@@ -7,6 +7,6 @@
 <section>
  <h2>JSP form</h2>
  <section>
-  <h2>문자열: <%= request.getParameter("textareaWord")%> <br/></h2>
+  <h2>문자열: <%= request.getParameter("textareaWord")%><br/></h2>
  </section></section>
 </body></html>
